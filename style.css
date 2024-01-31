@@ -1,0 +1,37 @@
+.container{
+   
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 8px;
+    b
+}
+
+body{
+    text-align: center;
+    background-image:  url("https://images3.alphacoders.com/993/993071.jpg");
+    background-size: cover;
+}
+
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: orange;
+}
+
+.flash{
+    background-color: white;
+}
